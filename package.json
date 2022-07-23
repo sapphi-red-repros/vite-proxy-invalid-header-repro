@@ -1,0 +1,15 @@
+{
+  "name": "vite-proxy-invalid-header-repro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node server.js"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  }
+}
